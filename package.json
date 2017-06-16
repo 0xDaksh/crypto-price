@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/Dakssh/crypto-price/issues"
   },
-  "homepage": "https://github.com/Dakssh/crypto-price#readme"
+  "homepage": "https://github.com/Dakssh/crypto-price#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
