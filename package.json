@@ -1,6 +1,6 @@
 {
   "name": "crypto-price",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A Node.js Module that allows you to convert Crypto Currency price to Local Currency",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/DakshMiglani/crypto-price/issues"
   },
-  "homepage": "https://github.com/DakshMiglani/crypto-price#readme"
+  "homepage": "https://github.com/DakshMiglani/crypto-price#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
 }
